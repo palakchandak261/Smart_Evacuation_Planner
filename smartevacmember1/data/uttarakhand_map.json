@@ -1,0 +1,12 @@
+{
+    "edges": [
+        { "from": "Dehradun", "to": "Mussoorie", "weight": 34 },
+        { "from": "Dehradun", "to": "Haridwar", "weight": 54 },
+        { "from": "Dehradun", "to": "Rishikesh", "weight": 20 },
+        { "from": "Haridwar", "to": "Rishikesh", "weight": 25 },
+        { "from": "Mussoorie", "to": "Rishikesh", "weight": 40 },
+        { "from": "Mussoorie", "to": "Chamba", "weight": 55 },
+        { "from": "Chamba", "to": "Tehri", "weight": 60 },
+        { "from": "Rishikesh", "to": "Tehri", "weight": 70 }
+    ]
+}
