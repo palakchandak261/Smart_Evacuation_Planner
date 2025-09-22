@@ -1,0 +1,44 @@
+{
+    "Chamba": {
+        "earthquake": 0.46,
+        "fire": 0.5,
+        "flood": 0.34,
+        "landslide": 0.46,
+        "total": 0.44
+    },
+    "Dehradun": {
+        "earthquake": 0.68,
+        "fire": 0.39,
+        "flood": 0.21,
+        "landslide": 0.4,
+        "total": 0.42000000000000004
+    },
+    "Haridwar": {
+        "earthquake": 0.51,
+        "fire": 0.27,
+        "flood": 0.07,
+        "landslide": 0.53,
+        "total": 0.34500000000000003
+    },
+    "Mussoorie": {
+        "earthquake": 0.04,
+        "fire": 0.54,
+        "flood": 0.03,
+        "landslide": 0.93,
+        "total": 0.385
+    },
+    "Rishikesh": {
+        "earthquake": 0.75,
+        "fire": 0.35,
+        "flood": 0.15,
+        "landslide": 0.58,
+        "total": 0.4575
+    },
+    "Tehri": {
+        "earthquake": 0.21,
+        "fire": 0.18,
+        "flood": 0.43,
+        "landslide": 0.96,
+        "total": 0.44499999999999995
+    }
+}
